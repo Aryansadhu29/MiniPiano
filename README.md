@@ -1,1 +1,1 @@
-# MiniPiano
+It is a MiniPiano Named "Drum-kit" which is a delightful musical instrument that produces sounds when its keys are pressed. It is designed for pure entertainment, allowing users to have fun creating different tunes and beats.
